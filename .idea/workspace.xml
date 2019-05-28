@@ -7,7 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd3ed9c4-6b8c-40cf-b032-11b10415bff2" name="Default" comment="first commit on 2019.5.28">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -50,17 +50,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ct_consumer/src/main/java/utils/HBaseUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-68">
-              <caret line="78" column="37" selection-start-line="78" selection-start-column="37" selection-end-line="78" selection-end-column="37" />
+            <state relative-caret-position="360">
+              <caret line="119" column="55" lean-forward="true" selection-start-line="119" selection-start-column="55" selection-end-line="119" selection-end-column="55" />
               <folding>
                 <element signature="method#isExistTable#0;class#HBaseUtil#0" />
                 <element signature="method#close#0;class#HBaseUtil#0" />
                 <element signature="method#initNamespace#0;class#HBaseUtil#0" />
                 <element signature="method#genSplitKeys#0;class#HBaseUtil#0" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="28">
+                <caret line="1" column="115" lean-forward="true" selection-start-line="1" selection-start-column="115" selection-end-line="1" selection-end-column="115" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -128,7 +140,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="D:/m2/repository/org/apache/hbase/hbase-client/1.3.1/hbase-client-1.3.1-sources.jar!/org/apache/hadoop/hbase/client/HTable.java" />
         <option value="D:/m2/repository/org/apache/hbase/hbase-client/1.3.1/hbase-client-1.3.1-sources.jar!/org/apache/hadoop/hbase/client/ConnectionFactory.java" />
         <option value="D:/m2/repository/org/apache/hbase/hbase-client/1.3.1/hbase-client-1.3.1-sources.jar!/org/apache/hadoop/hbase/client/Connection.java" />
         <option value="D:/m2/repository/org/apache/hbase/hbase-client/1.3.1/hbase-client-1.3.1-sources.jar!/org/apache/hadoop/hbase/client/Table.java" />
@@ -179,6 +190,7 @@
         <option value="$PROJECT_DIR$/ct_producer/src/main/java/producer/ProductLog.java" />
         <option value="$PROJECT_DIR$/ct_analysis/src/main/java/runner/CountDurationRunner.java" />
         <option value="$PROJECT_DIR$/ct_analysis/src/main/java/kv/key/ContactDimension.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -869,7 +881,7 @@
       <workItem from="1556008971558" duration="162000" />
       <workItem from="1557328814644" duration="806000" />
       <workItem from="1557586265420" duration="2802000" />
-      <workItem from="1559024532013" duration="2127000" />
+      <workItem from="1559024532013" duration="2776000" />
     </task>
     <task id="LOCAL-00001" summary="first commit on 2019.5.28">
       <created>1559046539694</created>
@@ -878,11 +890,18 @@
       <option name="project" value="LOCAL" />
       <updated>1559046539695</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="first commit on 2019.5.28">
+      <created>1559046776666</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1559046776666</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="508584000" />
+    <option name="totallyTimeSpent" value="509233000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -895,6 +914,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Capture Tool" order="0" />
       <window_info id="Designer" order="1" />
@@ -902,7 +922,7 @@
       <window_info id="Nl-Palette" order="3" />
       <window_info id="Web" order="4" side_tool="true" />
       <window_info id="Favorites" order="5" side_tool="true" weight="0.32980332" />
-      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.1913767" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.1913767" />
       <window_info id="Structure" order="7" weight="0.24962178" />
       <window_info id="Image Layers" order="8" />
       <window_info id="Learn" order="9" />
@@ -913,7 +933,7 @@
       <window_info anchor="bottom" id="Tail" />
       <window_info anchor="bottom" id="JRebel Executor" />
       <window_info anchor="bottom" id="MyBatis Sql Log" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="0" sideWeight="0.50214595" side_tool="true" visible="true" weight="0.32469776" />
+      <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.50214595" side_tool="true" weight="0.32469776" />
       <window_info anchor="bottom" id="Messages" order="1" weight="0.5156695" />
       <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.63404256" />
@@ -981,13 +1001,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ct_web/src/main/java/bean/QueryInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ct_web/ct_web.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1348,14 +1361,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ct_consumer/src/main/java/utils/HBaseUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-68">
-          <caret line="78" column="37" selection-start-line="78" selection-start-column="37" selection-end-line="78" selection-end-column="37" />
+        <state relative-caret-position="360">
+          <caret line="119" column="55" lean-forward="true" selection-start-line="119" selection-start-column="55" selection-end-line="119" selection-end-column="55" />
           <folding>
             <element signature="method#isExistTable#0;class#HBaseUtil#0" />
             <element signature="method#close#0;class#HBaseUtil#0" />
             <element signature="method#initNamespace#0;class#HBaseUtil#0" />
             <element signature="method#genSplitKeys#0;class#HBaseUtil#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="28">
+            <caret line="1" column="115" lean-forward="true" selection-start-line="1" selection-start-column="115" selection-end-line="1" selection-end-column="115" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
