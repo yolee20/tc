@@ -6,270 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd3ed9c4-6b8c-40cf-b032-11b10415bff2" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/ct_consumer_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/ct_web_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/ct_web_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/highlighting.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__asm_asm_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__c3p0_c3p0_0_9_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_stephenc_findbugs_findbugs_annotations_1_3_9_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_12_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_2_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jsch_0_1_42.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_lmax_disruptor_3_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_server_1_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_thoughtworks_paranamer_paranamer_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_yammer_metrics_metrics_core_2_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_core_1_8_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_cli_commons_cli_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_configuration_commons_configuration_1_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_daemon_commons_daemon_1_0_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_digester_commons_digester_1_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_el_commons_el_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_httpclient_commons_httpclient_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_net_commons_net_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_6_2_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_4_0_23_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_stream_stax_api_1_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_27.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_jpountz_lz4_lz4_1_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_avro_avro_1_7_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_compress_1_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_math3_3_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_math_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_directory_api_api_asn1_api_1_0_0_M20.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_directory_api_api_util_1_0_0_M20.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_directory_server_apacheds_i18n_2_0_0_M15.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_directory_server_apacheds_kerberos_codec_2_0_0_M15.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_annotations_2_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_auth_2_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_client_2_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_common_2_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_hdfs_2_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_app_2_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_common_2_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_core_2_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_jobclient_2_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_shuffle_2_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_api_2_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_client_2_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_common_2_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_server_common_2_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hbase_hbase_annotations_1_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hbase_hbase_client_1_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hbase_hbase_common_1_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hbase_hbase_common_tests_1_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hbase_hbase_hadoop2_compat_1_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hbase_hbase_hadoop_compat_1_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hbase_hbase_prefix_tree_1_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hbase_hbase_procedure_1_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hbase_hbase_protocol_1_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hbase_hbase_server_1_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_htrace_htrace_core_3_1_0_incubating.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_2_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kafka_kafka_clients_0_11_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_jaxrs_1_9_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_fusesource_leveldbjni_leveldbjni_all_1_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jamon_jamon_runtime_2_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jruby_jcodings_jcodings_1_0_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jruby_joni_joni_2_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mortbay_jetty_jetty_6_1_26.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mortbay_jetty_jetty_sslengine_6_1_26.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mortbay_jetty_jetty_util_6_1_26.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mortbay_jetty_jsp_2_1_6_1_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mortbay_jetty_jsp_api_2_1_6_1_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mortbay_jetty_servlet_api_2_5_6_1_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_16_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_4_3_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_3_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_tukaani_xz_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_snappy_snappy_java_1_0_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_snappy_snappy_java_1_1_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__tomcat_jasper_compiler_5_5_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__tomcat_jasper_runtime_5_5_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xmlenc_xmlenc_0_52.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_analysis/ct_analysis.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_analysis/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_analysis/src/main/java/converter/DimensionConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_analysis/src/main/java/converter/DimensionConverterImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_analysis/src/main/java/kv/base/BaseDimension.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_analysis/src/main/java/kv/base/BaseValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_analysis/src/main/java/kv/key/ComDimension.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_analysis/src/main/java/kv/key/ContactDimension.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_analysis/src/main/java/kv/key/DateDimension.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_analysis/src/main/java/kv/value/CountDurationValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_analysis/src/main/java/mapper/CountDurationMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_analysis/src/main/java/outputformat/MysqlOutputFormat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_analysis/src/main/java/reducer/CountDurationReducer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_analysis/src/main/java/runner/CountDurationRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_analysis/src/main/java/utils/JDBCInstance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_analysis/src/main/java/utils/JDBCUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_analysis/src/main/java/utils/LRUCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_analysis/src/main/resources/core-site.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_analysis/src/main/resources/hbase-site.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_analysis/src/main/resources/hdfs-site.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_analysis/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_analysis/target/classes/converter/DimensionConverter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_analysis/target/classes/converter/DimensionConverterImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_analysis/target/classes/core-site.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_analysis/target/classes/hbase-site.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_analysis/target/classes/hdfs-site.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_analysis/target/classes/kv/base/BaseDimension.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_analysis/target/classes/kv/base/BaseValue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_analysis/target/classes/kv/key/ComDimension.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_analysis/target/classes/kv/key/ContactDimension.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_analysis/target/classes/kv/key/DateDimension.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_analysis/target/classes/kv/value/CountDurationValue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_analysis/target/classes/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_analysis/target/classes/mapper/CountDurationMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_analysis/target/classes/outputformat/MysqlOutputFormat$MysqlRecordWriter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_analysis/target/classes/outputformat/MysqlOutputFormat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_analysis/target/classes/reducer/CountDurationReducer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_analysis/target/classes/runner/CountDurationRunner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_analysis/target/classes/utils/JDBCInstance.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_analysis/target/classes/utils/JDBCUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_analysis/target/classes/utils/LRUCache.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_analysis/target/ct_analysis-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_analysis/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_analysis/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_analysis/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_analysis/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_consumer/ct_consumer.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_consumer/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_consumer/src/main/java/hbase/CalleeWriteObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_consumer/src/main/java/hbase/HBaseDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_consumer/src/main/java/kafka/HBaseConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_consumer/src/main/java/utils/ConnectionInstance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_consumer/src/main/java/utils/HBaseUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_consumer/src/main/java/utils/PropertiesUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_consumer/src/main/resources/core-site.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_consumer/src/main/resources/hbase-site.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_consumer/src/main/resources/hbase_consumer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_consumer/src/main/resources/hdfs-site.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_consumer/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_consumer/src/test/java/ScanContentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_consumer/target/classes/core-site.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_consumer/target/classes/hbase-site.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_consumer/target/classes/hbase/CalleeWriteObserver.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_consumer/target/classes/hbase/HBaseDAO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_consumer/target/classes/hbase_consumer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_consumer/target/classes/hdfs-site.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_consumer/target/classes/kafka/HBaseConsumer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_consumer/target/classes/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_consumer/target/classes/utils/ConnectionInstance.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_consumer/target/classes/utils/HBaseUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_consumer/target/classes/utils/PropertiesUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_consumer/target/test-classes/ScanContentTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_producer/ct_producer.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_producer/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_producer/src/main/java/producer/ProductLog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_producer/target/classes/ACA.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_producer/target/classes/producer/ProductLog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_producer/target/ct_producer-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_producer/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_producer/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_producer/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_producer/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_web/ct_web.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_web/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_web/src/main/java/bean/CallLog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_web/src/main/java/bean/QueryInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_web/src/main/java/controller/CallLogHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_web/src/main/java/dao/CallLogDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_web/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_web/src/main/resources/dbconfig.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_web/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_web/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_web/src/main/webapp/js/echarts.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_web/src/main/webapp/jsp/CallLogListEchart.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_web/target/classes/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_web/target/classes/bean/CallLog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_web/target/classes/bean/QueryInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_web/target/classes/controller/CallLogHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_web/target/classes/dao/CallLogDAO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_web/target/classes/dbconfig.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_web/target/ct_web/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_web/target/ct_web/WEB-INF/classes/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_web/target/ct_web/WEB-INF/classes/bean/CallLog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_web/target/ct_web/WEB-INF/classes/bean/QueryInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_web/target/ct_web/WEB-INF/classes/controller/CallLogHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_web/target/ct_web/WEB-INF/classes/dao/CallLogDAO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_web/target/ct_web/WEB-INF/classes/dbconfig.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_web/target/ct_web/WEB-INF/lib/aspectjweaver-1.8.10.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_web/target/ct_web/WEB-INF/lib/c3p0-0.9.1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_web/target/ct_web/WEB-INF/lib/commons-logging-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_web/target/ct_web/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_web/target/ct_web/WEB-INF/lib/mybatis-3.2.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_web/target/ct_web/WEB-INF/lib/mybatis-spring-1.3.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_web/target/ct_web/WEB-INF/lib/mysql-connector-java-5.1.27.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_web/target/ct_web/WEB-INF/lib/servlet-api-2.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_web/target/ct_web/WEB-INF/lib/spring-aop-4.3.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_web/target/ct_web/WEB-INF/lib/spring-beans-4.3.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_web/target/ct_web/WEB-INF/lib/spring-context-4.3.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_web/target/ct_web/WEB-INF/lib/spring-context-support-4.3.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_web/target/ct_web/WEB-INF/lib/spring-core-4.3.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_web/target/ct_web/WEB-INF/lib/spring-expression-4.3.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_web/target/ct_web/WEB-INF/lib/spring-jdbc-4.3.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_web/target/ct_web/WEB-INF/lib/spring-tx-4.3.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_web/target/ct_web/WEB-INF/lib/spring-web-4.3.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_web/target/ct_web/WEB-INF/lib/spring-webmvc-4.3.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_web/target/ct_web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_web/target/ct_web/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_web/target/ct_web/js/echarts.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ct_web/target/ct_web/jsp/CallLogListEchart.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-dir/hadoop-2282758498281756234" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-dir/hadoop-2631791558239433819" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-dir/hadoop-341227000605576431" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-dir/hadoop-4264310609236217502" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-dir/hadoop-5921900811841193924" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-dir/hadoop-6626758471779915451" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-dir/hadoop-7592831339440323909" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-dir/hadoop-867504145716731862" afterDir="false" />
+    <list default="true" id="dd3ed9c4-6b8c-40cf-b032-11b10415bff2" name="Default" comment="first commit on 2019.5.28">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/ct_producer/target/" />
@@ -314,8 +53,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ct_consumer/src/main/java/utils/HBaseUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="70" column="15" lean-forward="true" selection-start-line="70" selection-start-column="15" selection-end-line="70" selection-end-column="15" />
+            <state relative-caret-position="-68">
+              <caret line="78" column="37" selection-start-line="78" selection-start-column="37" selection-end-line="78" selection-end-column="37" />
               <folding>
                 <element signature="method#isExistTable#0;class#HBaseUtil#0" />
                 <element signature="method#close#0;class#HBaseUtil#0" />
@@ -573,11 +312,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556008732003" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="G:/Repository/repo" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2454044" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="settings.editor.splitter.proportion" value="0.24367385" />
   </component>
   <component name="RecentsManager">
@@ -1130,12 +869,20 @@
       <workItem from="1556008971558" duration="162000" />
       <workItem from="1557328814644" duration="806000" />
       <workItem from="1557586265420" duration="2802000" />
-      <workItem from="1559024532013" duration="1765000" />
+      <workItem from="1559024532013" duration="2127000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit on 2019.5.28">
+      <created>1559046539694</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1559046539695</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="508222000" />
+    <option name="totallyTimeSpent" value="508584000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1155,7 +902,7 @@
       <window_info id="Nl-Palette" order="3" />
       <window_info id="Web" order="4" side_tool="true" />
       <window_info id="Favorites" order="5" side_tool="true" weight="0.32980332" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.1913767" />
+      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.1913767" />
       <window_info id="Structure" order="7" weight="0.24962178" />
       <window_info id="Image Layers" order="8" />
       <window_info id="Learn" order="9" />
@@ -1166,7 +913,7 @@
       <window_info anchor="bottom" id="Tail" />
       <window_info anchor="bottom" id="JRebel Executor" />
       <window_info anchor="bottom" id="MyBatis Sql Log" />
-      <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.50214595" side_tool="true" weight="0.32590052" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="0" sideWeight="0.50214595" side_tool="true" visible="true" weight="0.32469776" />
       <window_info anchor="bottom" id="Messages" order="1" weight="0.5156695" />
       <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.63404256" />
@@ -1209,6 +956,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
+    <ignored-roots>
+      <path value="F:/GitResitory" />
+    </ignored-roots>
+    <MESSAGE value="first commit on 2019.5.28" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit on 2019.5.28" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1596,8 +1348,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ct_consumer/src/main/java/utils/HBaseUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="70" column="15" lean-forward="true" selection-start-line="70" selection-start-column="15" selection-end-line="70" selection-end-column="15" />
+        <state relative-caret-position="-68">
+          <caret line="78" column="37" selection-start-line="78" selection-start-column="37" selection-end-line="78" selection-end-column="37" />
           <folding>
             <element signature="method#isExistTable#0;class#HBaseUtil#0" />
             <element signature="method#close#0;class#HBaseUtil#0" />
